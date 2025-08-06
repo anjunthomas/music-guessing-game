@@ -11,3 +11,7 @@
     d. create app.py
     e. ctrl + shift + p and type Python: Select Interpeter
     f. Find and Choose the env Python.eve path in the scripts folder
+2. Run app 
+    a. python app.py
+3. Template Inheritance
+    a. 1 html file contains the skeleton and inherit in another page
